@@ -10,15 +10,15 @@
   ### **Usuários**
   
   - **Usuários** (`users`): Armazena informações básicas sobre os usuários.
-  - `id`: Identificador único do usuário.
-  - `name`: Nome do usuário.
-  - `email`: Endereço de email do usuário.
-  - `gender`: Gênero do usuário.
-  - `country`: País do usuário.
-  - `city`: Cidade do usuário.
-  - `people_in_house`: Número de pessoas na residência do usuário.
-  - `marital_status`: Estado civil do usuário.
-  - `age`: Idade do usuário.
+    - `id`: Identificador único do usuário.
+    - `name`: Nome do usuário.
+    - `email`: Endereço de email do usuário.
+    - `gender`: Gênero do usuário.
+    - `country`: País do usuário.
+    - `city`: Cidade do usuário.
+    - `people_in_house`: Número de pessoas na residência do usuário.
+    - `marital_status`: Estado civil do usuário.
+    - `age`: Idade do usuário.
 
  ### **Formulários**
 
